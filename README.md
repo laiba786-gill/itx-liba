@@ -1,24 +1,61 @@
-# Hi, I'm Laiba 👋
+Hi, I'm Laiba 
+
+Full Stack Developer | PHP & Laravel Developer
+
+I'm a Software Development student passionate about building modern web applications and solving real-world problems through code.
 
 Frontend Developer
 
 I build modern web applications using JavaScript, HTML, CSS, and Tailwind CSS.
 
-Skills
+About Me
 
-1. HTML5
-2.  CSS3
-3. JavaScript
-4. Tailwind CSS
-5. Git & GitHub
+Full Stack Developer
+Currently Learning Laravel Advanced Concepts & REST APIs
+Goal: Become a Professional Full Stack Developer
+Karachi, Pakistan
+
+Frontend
+
+HTML5
+CSS3
+Bootstrap
+JavaScript
+jQuery
+
+Backend
+
+PHP
+Laravel
+
+Database
+
+MySQL
+
+Tools
+
+Git
+GitHub
+VS Code
+XAMPP
 
 Projects
 
 1. Portfolio Website
-2. Movie Booking Ticket
+2. Movie Booking System
 3. Student Managment
+
+Featured Projects
+
+Online Movie Booking System
+
+A web application that allows users to browse movies, watch trailers, read reviews, and book movie tickets online.
+
+Technologies:
+PHP, MySQL, Bootstrap, JavaScript, jQuery
 
 Contact
 
 Email: libagill987@gmail.com
-LinkedIn: Your LinkedIn Profile
+GitHub: https://github.com/itx-liba
+LinkedIn: Coming Soon
