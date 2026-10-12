@@ -1,17 +1,16 @@
 Hi, I'm Laiba 
 
-Full Stack Developer | PHP & Laravel Developer
-
-I'm a Software Development student passionate about building modern web applications and solving real-world problems through code.
-
-Frontend Developer
-
-I build modern web applications using JavaScript, HTML, CSS, and Tailwind CSS.
+Laravel & PHP developer building booking and management systems for businesses.
+Software Development student based in Karachi, Pakistan.
+What I build
+- Booking and reservation systems
+- Student and school management systems
+- Responsive websites and admin panels
 
 About Me
 
 Full Stack Developer
-Currently Learning Laravel Advanced Concepts & REST APIs
+Learning Laravel Advanced Concepts & REST APIs
 Goal: Become a Professional Full Stack Developer
 Karachi, Pakistan
 
@@ -43,7 +42,7 @@ Projects
 
 1. Portfolio Website
 2. Movie Booking System
-3. Student Managment
+3. Student Management
 
 Featured Projects
 
