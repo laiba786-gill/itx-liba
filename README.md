@@ -1,61 +1,26 @@
-Hi, I'm Laiba 
+# Hi, I'm Laiba
 
-Full Stack Developer | PHP & Laravel Developer
+PHP developer building booking and management systems for businesses.
+Software Development student based in Karachi, Pakistan.
 
-I'm a Software Development student passionate about building modern web applications and solving real-world problems through code.
+## What I build
+- Booking and reservation systems
+- Student and school management systems
+- Responsive websites and admin panels
 
-Frontend Developer
+## Projects
+- **[Online Movie Booking System](https://github.com/itx-liba/online-movie-booking-system)** - Browse movies, watch trailers, read reviews, and book tickets online, with an admin panel.
+  Tech: PHP, MySQL, Bootstrap, JavaScript, jQuery
+- **Student Management System** - Manage students, attendance, and grades.
+  Tech: PHP, MySQL
+- **Portfolio Website** - My personal portfolio.
+  Tech: HTML, CSS, JavaScript
 
-I build modern web applications using JavaScript, HTML, CSS, and Tailwind CSS.
+## Skills
+- **Frontend:** HTML5, CSS3, Bootstrap, JavaScript, jQuery
+- **Backend:** PHP, Laravel
+- **Database:** MySQL
+- **Tools:** Git, GitHub, VS Code, XAMPP
 
-About Me
-
-Full Stack Developer
-Currently Learning Laravel Advanced Concepts & REST APIs
-Goal: Become a Professional Full Stack Developer
-Karachi, Pakistan
-
-Frontend
-
-HTML5
-CSS3
-Bootstrap
-JavaScript
-jQuery
-
-Backend
-
-PHP
-Laravel
-
-Database
-
-MySQL
-
-Tools
-
-Git
-GitHub
-VS Code
-XAMPP
-
-Projects
-
-1. Portfolio Website
-2. Movie Booking System
-3. Student Managment
-
-Featured Projects
-
-Online Movie Booking System
-
-A web application that allows users to browse movies, watch trailers, read reviews, and book movie tickets online.
-
-Technologies:
-PHP, MySQL, Bootstrap, JavaScript, jQuery
-
-Contact
-
+## Contact
 Email: libagill987@gmail.com
-GitHub: https://github.com/itx-liba
-LinkedIn: Coming Soon
